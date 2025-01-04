@@ -1,6 +1,6 @@
 package com.example.product.ecommerce.DTO;
 
-
+//This is an product DTO
 
 public class ProductDTO {
     private String id;
